@@ -55,4 +55,4 @@ Now you will create a *pull request* to let the admins know your edits are ready
 
 Congratulations - you have just submitted your first edits to the site maintainers!
 
-You can keep track of the progress of your changes in Github or in the [github-updates channel](discord-github-updates.PNG) on our Discord server.
+Github will keep you updated on progress by email.  You can also see the progress of your changes in the [github-updates channel](discord-github-updates.PNG) on our Discord server.
